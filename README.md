@@ -3,13 +3,13 @@
 </h1>
 
 
-<h3 align="center">A Full Stack Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A Full Stack Engineer from Pakistan 🇵🇰</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m a **Full Stack Developer**
+ 🔭 I’m a **Full stack Engineer**
  
 ⚡ Fun fact **I love to code**
 
@@ -25,7 +25,6 @@
 <a href="https://leetcode.com/zeenat_fatima179/" target="_blank" style="background: white; display:inline-block; padding:4px; border-radius:6px;">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="leetcode" height="30" width="40" />
 </a>
-<a href="https://wa.me/923046713273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 <a href="z8784507@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
